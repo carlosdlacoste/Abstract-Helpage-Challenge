@@ -35,7 +35,7 @@ import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 						</div>
 						<div className="space-x-2 flex justify-end">
 							<button className="bg-zinc-700 hover:bg-zinc-900 py-1 px-3 border-solid border-2 text-white rounded">Submit a Request</button>
-							<button className="bg-indigo-500 hover:bg-indigo-700 py-1 px-3 text-white rounded">Sign In</button>
+							<button className="bg-indigo-500 hover:bg-white hover:text-black py-1 px-3 text-white rounded">Sign In</button>
 						</div>
 
 					</div>
