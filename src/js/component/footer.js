@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 export const Footer = () => (
-	<footer className="bg-black mt-auto py-2 text-center absolute inset-x-0 bottom-0">
+	<footer className="bg-black mt-auto py-2 text-center absolute inset-x-0 ">
 		<div className="grid grid-cols-5 gap-2 text-white p-6">
 			<div className="space-y-3 text-left">
 				<h3 className="text-2xl font-bold">Abstract</h3>
